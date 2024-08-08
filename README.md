@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Yurievich73
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 📫 How to reach me via GitHub
 
 <!---
 Yurievich73/Yurievich73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
