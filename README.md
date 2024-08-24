@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yurievich73
+- 👋 Hi, I’m @Mikhal73
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me via GitHub
